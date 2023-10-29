@@ -1,6 +1,6 @@
 <img src="qoppaLogo.png">
 <h1>🖥 ϘoppaTech </h1>
-Somos uma startup de desenvolvimento de aplicações, nosso objetivo é fornecer ao público jovem uma oportunidade de ganhar experiências no mercado, precisamos de pessoas criativas e inspiradas a provar sua capacidade em forma de código, esperamos VOCẼ na <strong>qoppaTech</strong>!
+Somos uma startup de desenvolvimento de aplicações, nosso objetivo é fornecer ao público jovem uma oportunidade de ganhar experiências no mercado, precisamos de pessoas criativas e inspiradas a provar sua capacidade em forma de código, esperamos VOCÊ na <strong>qoppaTech</strong>!
 
 Precisamos de um desenvolvedor front-end que prove sua experiência no código produzindo código!
 
