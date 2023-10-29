@@ -11,7 +11,7 @@ await figlet('QoppaTech', (err, data) => {
     console.log(chalk.blue(data));
 })
 console.log(chalk.blue("Bem vindo ao CLI da API do teste de front-end da QoppaTech."));
-console.log(chalk.blue("Confira as informações em: ..."));
+console.log(chalk.blue("Confira as informações em: https://github.com/QoppaTech/Qoppa-Front-End-Challenge/tree/main/api"));
 console.log("----------------------------------------------------------------")
 
 
@@ -30,7 +30,7 @@ app
         console.log(chalk.green("✅ Reconhecido! Parabéns!"))
         return res.status(200).send();
     } else {
-        console.log(chalk.red("⛔️ Dados enviados incorretos ou não recebidos, confira os dados que devem ser recebidos em: ..."));
+        console.log(chalk.red("⛔️ Dados enviados incorretos ou não recebidos, confira os dados que devem ser recebidos em: https://github.com/QoppaTech/Qoppa-Front-End-Challenge/tree/main/api"));
         return res.status(401).send(); 
     }
 })
