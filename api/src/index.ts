@@ -26,14 +26,12 @@ app
 
     const bd = req.body;
 
-    if(bd.username === "root", bd.email === "root@root.com", bd.password === "admin") {
+    if(bd.username, bd.email, bd.password) {
         console.log(chalk.green("✅ Reconhecido! Parabéns!"))
         return res.status(200).send();
     } else {
-
         console.log(chalk.red("⛔️ Dados enviados incorretos ou não recebidos, confira os dados que devem ser recebidos em: ..."));
-        return res.status(401).send();
-        
+        return res.status(401).send(); 
     }
 })
 .post("*", (req: Request, res: Response) => {
