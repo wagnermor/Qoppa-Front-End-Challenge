@@ -8,6 +8,8 @@ Após baixar as dependências, inicie a API com:
 ```sh
 yarn start
 ```
+Após isso, a API estará disponível em localhost:3000/
+
 Os dados de POST devem ser enviados na rota /SingUp como uma requisição do tipo POST por um formulário feito no seu front-end. 
 
 O formulário de dados que deve ter na página de cadastro deve conter username, email e password, enviados por meio de um JSON, se todos esses campos forem recebidos pela API, então o seu front-end está funcionando.
