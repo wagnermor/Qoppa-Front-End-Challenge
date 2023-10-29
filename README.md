@@ -17,6 +17,8 @@ Pré requisitos:
 O teste consiste em fazer uma página de cadastro de usuários e enviar os dados de cadastro por meio de um JSON em uma requisição HTTP do tipo POST no body da requisição.
 A API que o usuário deve usar estará disponível na pasta API deste mesmo repositório, junto da API estará instruções de como iniciá-la em sua máquina.
 
+Após realizar esse teste prático, por favor, preencha este formulário: https://docs.google.com/forms/d/e/1FAIpQLSfVyxVgX62CYA9iieZce4jOr0waWJSzFygLXh7PrANzdeSEqQ/viewform?usp=sf_link
+
 Em caso de dúvidas nos contate em: qoppaCoders@gmail.com
 
 Bom teste!
