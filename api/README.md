@@ -17,3 +17,7 @@ A API fornece informações suficientes para te apoiar em caso de dúvidas se os
 Todavia, envie para nós em um repositório github o resultado de seu desafio.
 
 Bom teste!
+
+
+  *Developer: Marzeero*<br>
+  *ISC License*
