@@ -14,7 +14,7 @@ Pré requisitos:
 
 <h1>📜 O Teste</h1>
 
-O teste consiste em fazer uma página de cadastro de usuários e enviar os dados de cadastro por meio de uma requisição HTTP do tipo POST no body da requisição.
+O teste consiste em fazer uma página de cadastro de usuários e enviar os dados de cadastro por meio de um JSON em uma requisição HTTP do tipo POST no body da requisição.
 A API que o usuário deve usar estará disponível na pasta API deste mesmo repositório, junto da API estará instruções de como iniciá-la em sua máquina.
 
 Bom teste!
