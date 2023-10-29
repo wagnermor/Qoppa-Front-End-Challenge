@@ -21,6 +21,10 @@ Após realizar esse teste prático, por favor, preencha este formulário: https:
 
 Em caso de dúvidas nos contate em: qoppaCoders@gmail.com
 
+<h1>🖊 Como aplicar</h1>
+
+Para aplicar é necessário que você crie um fork e envie um email para a qoppaCoders@gmail.com com o título "Avaliação por {nome}" e anexe o link do fork.
+
 Bom teste!
 
 # QoppaTech - 2023 © Todos os direitos reservados
