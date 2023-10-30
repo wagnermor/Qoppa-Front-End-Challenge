@@ -1,7 +1,10 @@
 import express from 'express';
 import chalk from 'chalk';
+import cors from "cors"
 import { Request, Response } from 'express';
 import figlet from 'figlet';
+
+const app = express();
 
 await figlet('QoppaTech', (err, data) => {
     if(err) {
@@ -15,9 +18,8 @@ console.log(chalk.blue("Confira as informações em: https://github.com/QoppaTec
 console.log("----------------------------------------------------------------")
 
 
-const app = express();
-
-app.use( express.json() );
+app.use( express.json(),
+        cors());
 
 app
 .get("/", (req: Request, res: Response) => res.status(200).send("<h1>API DESAFIO: QoppaTech </h1>"))
