@@ -18,7 +18,7 @@
 
 ```yarn start```
 
-⚠️**Atenção:** O comando _"--watch"_ foi implementado na versão 18 do node, se for o caso, utilize a versão do _**node 18**_ ou _**superior**_.
+⚠️**Atenção:** O comando _"--watch"_ foi implementado na versão 18 do node, portanto, utilize a versão do _**node 18**_ ou _**superior**_.
 
 **Abra outra aba do terminal no mesmo diretório clonado _"desafio-qoppa"_**
 ```cd desafio-qoppa```
