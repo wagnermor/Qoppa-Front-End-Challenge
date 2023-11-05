@@ -1,0 +1,49 @@
+.signup_box {
+  width: 60%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+.signup_box h1 {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  color: #223462;
+}
+
+.signup_box input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  background-color: #223462;
+}
+
+::placeholder {
+  color: #888;
+  font-weight: 100;
+}
+::-ms-input-placeholder { /* Edge 12-18 */
+    color: #888;
+}
+
+@media screen and (max-width: 553px) {
+  .signup_box {
+    width: 90%;
+}
+
+@media screen and (max-width: 390px) {
+  .signup_box h1{
+    font-size: 1.5rem;
+  }
+    
+}
+    
+}
